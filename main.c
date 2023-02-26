@@ -1,5 +1,6 @@
 //
-// Felix Rouleau; 20188552; felix.rouleau@gmail.com
+// Félix Rouleau; 20188552; felix.rouleau@gmail.com
+// Mikaël Pélissier; 20168480; mikael.pelissier@umontreal.ca
 //
 #include <math.h>
 #include <stdio.h>
